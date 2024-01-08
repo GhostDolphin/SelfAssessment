@@ -18,19 +18,19 @@
   - type: 🖐️ used
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
-  - flag: 🎓 known
-  - lexical scope: 🎓 known
+  - flag: 👂 heard
+  - lexical scope: 👂 heard
   - code block: 🖐️ used
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
-  - interface: 🎓 known
-  - contract: 🎓 known
+  - interface: 👂 heard
+  - contract: 👂 heard
   - module: 🖐️ used
-  - call stack: 🎓 known
+  - call stack: 👂 heard
 - Functions
-  - signature: 🎓 known
+  - signature: 👂 heard
   - argument: 🖐️ used
   - parameter: 🖐️ used
   - pure function: 🖐️ used
@@ -44,14 +44,14 @@
   - callback: 🖐️ used
   - listener: 🖐️ used
   - compose: 👂 heard
-  - pipe: 🎓 known
+  - pipe: 👂 heard
   - memoize: 👂 heard
   - wrapper: 🖐️ used
-  - functor: 🎓 known
-  - monad: 🎓 known
-  - monoid: 🎓 known
+  - functor: 👂 heard
+  - monad
+  - monoid
   - generator: 🖐️ used
-  - coroutine: 🎓 known
+  - coroutine
 - Data structures
   - array: 🖐️ used
   - structure: 🖐️ used
@@ -63,18 +63,18 @@
   - collection: 🖐️ used
   - set: 🖐️ used
   - hash table: 🖐️ used
-  - linked list: 🎓 known
-  - doubly list: 🎓 known
-  - unrolled list: 🎓 known
-  - circular list: 🎓 known
-  - queue: 🎓 known
+  - linked list: 👂 heard
+  - doubly list: 👂 heard
+  - unrolled list: 👂 heard
+  - circular list: 👂 heard
+  - queue: 👂 heard
   - stack: 🎓 known
   - deque: 👂 heard
   - tree: 👂 heard
-  - graph: 👂 heard
+  - graph
   - iterator: 🖐️ used
-  - mutable state: 🎓 known
-  - immutable state: 🎓 known
+  - mutable state: 👂 heard
+  - immutable state: 👂 heard
   - serialization: 🖐️ used
   - string parsing: 🖐️ used
 - Process & style
@@ -87,20 +87,20 @@
   - refactoring: 🖐️ used
   - code review: 🖐️ used
   - antipatterns: 🖐️ used
-  - paradigm: 🎓 known
+  - paradigm: 👂 heard
   - algorithm: 🖐️ used
   - magic numbers: 🖐️ used
-  - hardcode: 🎓 known
-  - complexity: 🎓 known
-  - decomposition: 🎓 known
-  - spaghetti: 👂 heard
-  - silver bullet: 👂 heard
+  - hardcode: 👂 heard
+  - complexity
+  - decomposition
+  - spaghetti
+  - silver bullet
   - not invented here
-  - dead code: 👂 heard
-  - unreachable code: 👂 heard
+  - dead code
+  - unreachable code
   - duplicate code
-  - exception: 🎓 known
+  - exception
   - return early
-  - unittest: 🎓 known
+  - unittest
   - git: 🖐️ used
   - github: 🖐️ used
