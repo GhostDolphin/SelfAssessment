@@ -4,48 +4,48 @@
   - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers: 🎓 known
   - Nonblocking I/O and slocking code
-  - Event loop: phases: 👂 heard
-  - Event loop: microtasks and macrotasks: 👂 heard
+  - Event loop: phases: 🎓 known
+  - Event loop: microtasks and macrotasks: 🎓 known
   - Garbage collection: 🎓 known
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
   - Interactive applications (close to real-time): 🎓 known
 - Modularity, layers and dependencies
   - CommonJS modules: 🖐️ used
   - ECMAScript modules: 🖐️ used
-  - (node:module): 👂 heard
-  - Caching in CJS and ESM: 👂 heard
-  - Modules as singletons: 👂 heard
-  - Contexts and scripts node:vm: 👂 heard
+  - (node:module): 🖐️ used
+  - Caching in CJS and ESM: 🖐️ used
+  - Modules as singletons: 🖐️ used
+  - Contexts and scripts node:vm : 🎓 known
   - Dependencies: npm, node_modules: 🖐️ used
   - Dependencies: package.json and package lock: 🖐️ used
-  - Module-based permissions model
+  - Module-based permissions model: 👂 heard
   - Isolation with modularity: 🖐️ used
   - Dependency injection: 🖐️ used
-  - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - DI containers: 👂 heard
+  - Coupling and cohesion: 🎓 known
+  - Framework agnostic approach: 🎓 known
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 🖐️ used
-  - Process-based permissions
-  - Graceful shutdown
-  - Clustering: 👂 heard
+  - Process-based permissions: 🎓 known
+  - Graceful shutdown: 👂 heard
+  - Clustering: 🎓 known
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API: 👂 heard
-  - Web Streams API: 👂 heard
+  - Streams API: 🎓 known
+  - Web Streams API: 🎓 known
   - Crypto API: 🖐️ used
   - Password hashing with node:crypto.scrypt
-  - Web Crypto API: 👂 heard
-  - File system API: sync and async: 👂 heard
+  - Web Crypto API: 🎓 known
+  - File system API: sync and async: 🎓 known
   - Copy folder recursively: 🖐️ used
-  - Worker threads
+  - Worker threads: 👂 heard
   - Performance hooks: 👂 heard
   - Native fetch and nodejs/undici
   - node:async_hooks
-  - AsyncLocalStorage: 👂 heard
-  - AsyncResource: 👂 heard
+  - AsyncLocalStorage: 🎓 known
+  - AsyncResource: 🎓 known
   - Deprecated domain API: 🎓 known
   - Node.js single executable: 🎓 known
   - Stream back pressure
@@ -57,40 +57,40 @@
   - Generating crypto random UUID: 🖐️ used
   - node:url vs new URL: 👂 heard
   - node:assert
-  - Internationalization: 👂 heard
+  - Internationalization: 🎓 known
   - Blob, File, Buffer, node:buffer : 🎓 known
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer: 🎓 known
-  - Multilayer approach: 👂 heard
-  - Separation of concerns: 👂 heard
+  - Multilayer approach: 🎓 known
+  - Separation of concerns: 🎓 known
   - Inversion of control: 👂 heard
-  - Dependency injection: 👂 heard
+  - Dependency injection: 🎓 known
   - GRASP
   - SOLID
   - GoF patterns
-  - Distributed systems: 👂 heard
-  - Highload applications: 👂 heard
+  - Distributed systems: 🎓 known
+  - Highload applications: 🎓 known
   - Clean architecture: 🎓 known
   - DDD
   - Message Queue
-  - CQS: 👂 heard
-  - CQRS: 👂 heard
-  - Event sourcing: 👂 heard
+  - CQS: 🎓 known
+  - CQRS: 🎓 known
+  - Event sourcing: 🎓 known
   - Load balancing: 🎓 known
   - Serverless clouds: 🖐️ used
   - FaaS clouds
   - Fat controller: 👂 heard
   - GoF for Node.js
-  - Leaking abstractions
+  - Leaking abstractions: 🎓 known
 - Network
-  - IP sticky sessions
+  - IP sticky sessions: 🎓 known
   - Endpoint throttling: 🖐️ used
   - HTTP(S): 🖐️ used
   - TCP/SSL: 🖐️ used
   - UDP: 🖐️ used
   - TLS: 🖐️ used
-  - Websocket: 👂 heard
+  - Websocket: 🎓 known
   - SSE: 👂 heard
   - HTTP/3 (QUIC): 🖐️ used
   - Long polling
@@ -101,13 +101,13 @@
   - DDoS: 🖐️ used
   - XSS: 🖐️ used
   - Path traversal
-  - CSRF: 👂 heard
+  - CSRF: 🎓 known
   - DNS: 🖐️ used
   - Fetch API: 🖐️ used
-  - IncomingMessage: 👂 heard
+  - IncomingMessage: 🎓 known
   - SQL injection: 🖐️ used
   - noDelay
-  - keep-alive: 👂 heard
+  - keep-alive: 🎓 known
   - ALPN
   - SNI callback
   - SSL certificates: 🖐️ used
