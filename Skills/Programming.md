@@ -18,19 +18,19 @@
   - type: 🖐️ used
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
-  - flag: 👂 heard
-  - lexical scope: 👂 heard
+  - flag: 🎓 known
+  - lexical scope: 🎓 known
   - code block: 🖐️ used
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
-  - interface: 👂 heard
-  - contract: 👂 heard
+  - interface: 🎓 known
+  - contract: 🎓 known
   - module: 🖐️ used
-  - call stack: 👂 heard
+  - call stack: 🎓 known
 - Functions
-  - signature: 👂 heard
+  - signature: 🎓 known
   - argument: 🖐️ used
   - parameter: 🖐️ used
   - pure function: 🖐️ used
@@ -44,14 +44,14 @@
   - callback: 🖐️ used
   - listener: 🖐️ used
   - compose: 👂 heard
-  - pipe: 👂 heard
+  - pipe: 🎓 known
   - memoize: 👂 heard
   - wrapper: 🖐️ used
-  - functor: 👂 heard
-  - monad
-  - monoid
+  - functor: 🎓 known
+  - monad: 🎓 known
+  - monoid: 🎓 known
   - generator: 🖐️ used
-  - coroutine
+  - coroutine: 🎓 known
 - Data structures
   - array: 🖐️ used
   - structure: 🖐️ used
@@ -63,18 +63,18 @@
   - collection: 🖐️ used
   - set: 🖐️ used
   - hash table: 🖐️ used
-  - linked list: 👂 heard
-  - doubly list: 👂 heard
-  - unrolled list: 👂 heard
-  - circular list: 👂 heard
-  - queue: 👂 heard
+  - linked list: 🎓 known
+  - doubly list: 🎓 known
+  - unrolled list: 🎓 known
+  - circular list: 🎓 known
+  - queue: 🎓 known
   - stack: 🎓 known
   - deque: 👂 heard
   - tree: 👂 heard
-  - graph
+  - graph: 👂 heard
   - iterator: 🖐️ used
-  - mutable state: 👂 heard
-  - immutable state: 👂 heard
+  - mutable state: 🎓 known
+  - immutable state: 🎓 known
   - serialization: 🖐️ used
   - string parsing: 🖐️ used
 - Process & style
@@ -87,20 +87,20 @@
   - refactoring: 🖐️ used
   - code review: 🖐️ used
   - antipatterns: 🖐️ used
-  - paradigm: 👂 heard
+  - paradigm: 🎓 known
   - algorithm: 🖐️ used
   - magic numbers: 🖐️ used
-  - hardcode: 👂 heard
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
+  - hardcode: 🎓 known
+  - complexity: 🎓 known
+  - decomposition: 🎓 known
+  - spaghetti: 👂 heard
+  - silver bullet: 👂 heard
   - not invented here
-  - dead code
-  - unreachable code
+  - dead code: 👂 heard
+  - unreachable code: 👂 heard
   - duplicate code
-  - exception
+  - exception: 🎓 known
   - return early
-  - unittest
+  - unittest: 🎓 known
   - git: 🖐️ used
   - github: 🖐️ used
