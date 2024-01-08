@@ -8,7 +8,7 @@
   - call: 🖐️ used
   - bind: 🖐️ used
   - apply: 🖐️ used
-  - instanceof: 🎓 known
+  - instanceof: 🖐️ used
   - ...spread: 🖐️ used
   - ...rest: 🖐️ used
   - typeof: 🖐️ used
@@ -18,10 +18,10 @@
   - async generator: 🖐️ used
   - async iterator: 🖐️ used
   - chaining: 🖐️ used
-  - optional chaining: 👂 heard
+  - optional chaining: 🖐️ used
   - IIFE: 👂 heard
   - global: 🖐️ used
-  - globalThis: 🎓 known
+  - globalThis: 🖐️ used
   - window: 🖐️ used
   - getters and setters: 🖐️ used
   - __proto__: 🖐️ used
@@ -31,15 +31,15 @@
   - bitwise operators: 🖐️ used
   - ternary operator: 🖐️ used
   - void: 🖐️ used
-  - yield: 👂 heard
+  - yield: 🖐️ used
   - await: 🖐️ used
-  - template literal
-  - strict mode
+  - template literal: 👂 heard
+  - strict mode: 🖐️ used
   - delete: 🖐️ used
   - in: 🖐️ used
   - super: 🖐️ used
   - Symbol: 🖐️ used
-  - Reflect: 👂 heard
+  - Reflect: 🖐️ used
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
@@ -53,12 +53,12 @@
   - continue: 🖐️ used
   - import: 🖐️ used
   - export: 🖐️ used
-  - label: 👂 heard
+  - label: 🖐️ used
   - try..catch: 🖐️ used
   - switch: 🖐️ used
   - class: 🖐️ used
   - new Error: 🖐️ used
-  - with: 👂 heard
+  - with: 🖐️ used
 - Functions
   - function declaration: 🖐️ used
   - function expression: 🖐️ used
@@ -67,8 +67,8 @@
   - functional object: 🖐️ used
 - Data structures
   - Array: 🖐️ used
-  - mixin: 👂 heard
-  - extend: 👂 heard
+  - mixin: 🖐️ used
+  - extend: 🖐️ used
   - typed arrays: 🖐️ used
   - Map: 🖐️ used
   - Set: 🖐️ used
@@ -86,4 +86,4 @@
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier
-  - MDN: 🎓 known
+  - MDN: 🖐️ used
