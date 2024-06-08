@@ -1,90 +1,90 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET *
-  - Stateful and stateless services *
-  - Asynchronous and synchronous programming *
-  - Task-based asynchronous pattern *
-  - Garbage collection in .NET *
-  - .NET runtime versions and support *
-  - I/O-bound, CPU-bound tasks *
-  - Real-time applications with SignalR *
+  - Strengths and weaknesses of .NET: 🖐️ used
+  - Stateful and stateless services: 🖐️ used
+  - Asynchronous and synchronous programming: 🖐️ used
+  - Task-based asynchronous pattern: 🖐️ used
+  - Garbage collection in .NET: 🖐️ used
+  - .NET runtime versions and support: 🖐️ used
+  - I/O-bound, CPU-bound tasks: 🖐️ used
+  - Real-time applications with SignalR: 🖐️ used
 - Modularity and Dependencies
-  - .NET assemblies *
-  - NuGet package management *
-  - Dependency management in .NET *
-  - Dependency Injection in .NET *
-  - Inversion of Control (IoC) +
-  - IoC containers in .NET +
-  - Middleware and pipeline configuration +
-  - Modular applications *
+  - .NET assemblies: 🖐️ used
+  - NuGet package management: 🖐️ used
+  - Dependency management in .NET: 🖐️ used
+  - Dependency Injection in .NET: 🖐️ used
+  - Inversion of Control (IoC): 🎓 known
+  - IoC containers in .NET: 🎓 known
+  - Middleware and pipeline configuration: 🎓 known
+  - Modular applications: 🖐️ used
 - Environment and Tools
-  - Command line interface (CLI) tools *
-  - .NET CLI *
-  - Windows Services and Linux Daemons *
-  - Hosting and Deployment models +
-  - IIS and Kestrel web server h
-  - Environment variables and configuration *
-  - File system I/O operations *
-  - Multithreading with Task Parallel Library (TPL) +
-  - Performance monitoring and diagnostics *
+  - Command line interface (CLI) tools: 🖐️ used
+  - .NET CLI: 🖐️ used
+  - Windows Services and Linux Daemons: 🖐️ used
+  - Hosting and Deployment models: 🎓 known
+  - IIS and Kestrel web server: 👂 heard
+  - Environment variables and configuration: 🖐️ used
+  - File system I/O operations: 🖐️ used
+  - Multithreading with Task Parallel Library (TPL): 🎓 known
+  - Performance monitoring and diagnostics: 🖐️ used
 - APIs and Framework Features
-  - LINQ *
-  - SignalR for real-time web functionality +
-  - High-performance RPC with `gRPC` h
-  - Security features (authentication, authorization) *
-  - Cryptography and secure data handling *
-  - Memory and resource management *
-  - Globalization and localization +
+  - LINQ: 🖐️ used
+  - SignalR for real-time web functionality: 🎓 known
+  - High-performance RPC with `gRPC`: 👂 heard
+  - Security features (authentication, authorization): 🖐️ used
+  - Cryptography and secure data handling: 🖐️ used
+  - Memory and resource management: 🖐️ used
+  - Globalization and localization: 🎓 known
 - Network and Protocols
-  - HTTP/HTTPS support *
-  - WebSockets for real-time communication *
-  - TCP/UDP networking *
-  - SSL/TLS for secure connections *
-  - Efficient network communication with `gRPC` +
-  - HTTP/2 and HTTP/3 support +
-  - Network security (DDoS, XSS, CSRF prevention) *
-  - Serialization and deserialization (JSON, XML) *
+  - HTTP/HTTPS support: 🖐️ used
+  - WebSockets for real-time communication: 🖐️ used
+  - TCP/UDP networking: 🖐️ used
+  - SSL/TLS for secure connections: 🖐️ used
+  - Efficient network communication with `gRPC`: 🎓 known
+  - HTTP/2 and HTTP/3 support: 🎓 known
+  - Network security (DDoS, XSS, CSRF prevention): 🖐️ used
+  - Serialization and deserialization (JSON, XML): 🖐️ used
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit +
-  - Integration testing *
-  - Logging and tracing *
-  - Application monitoring and telemetry +
-  - Debugging tools and strategies  *
-  - Performance profiling and analysis *
+  - Unit testing with frameworks like xUnit, NUnit: 🎓 known
+  - Integration testing: 🖐️ used
+  - Logging and tracing: 🖐️ used
+  - Application monitoring and telemetry: 🎓 known
+  - Debugging tools and strategies: 🖐️ used
+  - Performance profiling and analysis: 🖐️ used
 - Data Access and ORM
-  - Entity Framework Core +
-  - Dapper h
-  - ADO.NET for database access +
-  - Data modeling and migration +
-  - Repository and Unit of Work patterns h
-  - CRUD operations +
+  - Entity Framework Core: 🎓 known
+  - Dapper: 👂 heard
+  - ADO.NET for database access: 🎓 known
+  - Data modeling and migration: 🎓 known
+  - Repository and Unit of Work patterns: 👂 heard
+  - CRUD operations: 🎓 known
 - Error Handling and Debugging
-  - Exception handling in .NET *
-  - Custom error classes +
-  - Debugging and diagnostic tools *
-  - Profiling and performance analysis *
-  - Memory leak detection +
+  - Exception handling in .NET: 🖐️ used
+  - Custom error classes: 🎓 known
+  - Debugging and diagnostic tools: 🖐️ used
+  - Profiling and performance analysis: 🖐️ used
+  - Memory leak detection: 🎓 known
 - Integration and Extensibility
-  - Interoperability with native libraries +
-  - P/Invoke for calling `C/C++` libraries h
-  - COM interop h
-  - .NET for `WebAssembly` h
-  - Custom middleware development +
+  - Interoperability with native libraries: 🎓 known
+  - P/Invoke for calling `C/C++` libraries: 👂 heard
+  - COM interop: 👂 heard
+  - .NET for `WebAssembly`: 👂 heard
+  - Custom middleware development: 🎓 known
 - Cloud and Microservices
-  - Integration with cloud platforms (Azure, AWS) h
-  - Microservices architecture +
-  - Containerization with Docker *
-  - Kubernetes for orchestration h
-  - Serverless computing h
+  - Integration with cloud platforms (Azure, AWS): 👂 heard
+  - Microservices architecture: 🎓 known
+  - Containerization with Docker: 🖐️ used
+  - Kubernetes for orchestration: 👂 heard
+  - Serverless computing: 👂 heard
 - C# Development
-  - C# syntax and language fundamentals *
-  - Advanced C# features (LINQ, async/await, delegates, events) *
-  - Reflection and dynamic programming *
-  - Data types and collections *
-  - Generics and extension methods *
-  - Attributes and annotations *
-  - Interoperability with other .NET languages +
+  - C# syntax and language fundamentals: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 🖐️ used
+  - Reflection and dynamic programming: 🖐️ used
+  - Data types and collections: 🖐️ used
+  - Generics and extension methods: 🖐️ used
+  - Attributes and annotations: 🖐️ used
+  - Interoperability with other .NET languages: 🎓 known
 - `F#` Development
   - `F#` syntax and language fundamentals
   - Immutable data structures
@@ -103,26 +103,26 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals *
-  - Interoperability between managed (.NET) and unmanaged (native) code +
-  - Memory management in mixed environments +
-  - `C++/CLI` syntax and usage *
-  - Accessing .NET Framework classes in `C++` *
-  - Writing performance-critical modules +
-  - Interfacing with native libraries and APIs *
+  - C++ syntax and language fundamentals: 🖐️ used
+  - Interoperability between managed (.NET) and unmanaged (native) code: 🎓 known
+  - Memory management in mixed environments: 🎓 known
+  - `C++/CLI` syntax and usage: 🖐️ used
+  - Accessing .NET Framework classes in `C++`: 🖐️ used
+  - Writing performance-critical modules: 🎓 known
+  - Interfacing with native libraries and APIs: 🖐️ used
   - Developing custom .NET libraries in `C++`
-  - Managing resource disposal and finalization h
-  - Creating and consuming DLLs (Dynamic Link Libraries) +
-  - Working with Windows API *
+  - Managing resource disposal and finalization: 👂 heard
+  - Creating and consuming DLLs (Dynamic Link Libraries): 🎓 known
+  - Working with Windows API: 🖐️ used
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity +
+  - Unity: 🎓 known
 - Web development
-  - ASP.NET Core +
+  - ASP.NET Core: 🎓 known
   - Blazor
   - Razor Syntax
-  - RESTful API development +
+  - RESTful API development: 🎓 known
