@@ -1,57 +1,57 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
   - GRASP
   - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - GoF patterns: 👂 heard
+  - CQS: 🎓 known
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 👂 heard
+  - Cohesion: 👂 heard
+  - Coupling: 🎓 known
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
+  - Isolation between layer: 🖐️ used
+  - Domain-specific language (DSL): 👂 heard
+  - System vs applied code: 👂 heard
+  - Multilayer approach: 🎓 known
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming: 🎓 known
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
   - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
-  - Agent
-  - Service locator
+  - Pub/sub: 🎓 known
+  - Message brocker: 🎓 known
+  - Agent: 🎓 known
+  - Service locator: 🎓 known
   - Message Queue (MQ)
   - CQRS
-  - Event sourcing
+  - Event sourcing: 🎓 known
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
   - UML
   - Work breakdown structure
-  - Budget estimation
+  - Budget estimation: 🖐️ used
   - Distributed systems
   - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Load balancing: 🎓 known
+  - Gateways: 🎓 known
   - On-premises
   - IaaS
   - PaaS
