@@ -1,57 +1,57 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity *
+  - Components *
+  - Directories *
   - GRASP
   - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - GoF patterns h
+  - CQS +
+  - Leaking abstractions h
+  - Multiparadigm code +
+  - Contract programming h
+  - Platform-agnostic h
+  - Transport-agnostic h
+  - Framework-agnostic h
+  - Code coverage h
+  - Cohesion h
+  - Coupling +
+  - Cyclomatic complexity h
+  - Reliability *
+  - Quality *
+  - Availability *
+  - Flexibility *
+  - Law of Demeter (LoD) h
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
+  - Isolation between layer *
+  - Domain-specific language (DSL) h
+  - System vs applied code h
+  - Multilayer approach +
+  - Hexagonal architecture 
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming +
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
   - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
-  - Agent
-  - Service locator
+  - Pub/sub +
+  - Message brocker +
+  - Agent +
+  - Service locator +
   - Message Queue (MQ)
   - CQRS
-  - Event sourcing
+  - Event sourcing +
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
   - UML
   - Work breakdown structure
-  - Budget estimation
+  - Budget estimation *
   - Distributed systems
   - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Load balancing +
+  - Gateways +
   - On-premises
   - IaaS
   - PaaS
